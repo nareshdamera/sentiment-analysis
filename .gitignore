@@ -1,0 +1,52 @@
+# ---------------------------
+# Python cache and logs
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ---------------------------
+# Jupyter notebook checkpoints
+# ---------------------------
+.ipynb_checkpoints/
+
+# ---------------------------
+# Virtual environments
+# ---------------------------
+venv/
+env/
+.venv/
+ENV/
+
+# ---------------------------
+# Dataset and large files
+# ---------------------------
+dataset.csv
+*.csv
+*.zip
+*.tsv
+*.json
+
+# ---------------------------
+# Model and vectorizer files
+# ---------------------------
+*.pkl
+*.joblib
+models/
+checkpoints/
+
+# ---------------------------
+# System / IDE specific
+# ---------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---------------------------
+# Streamlit / cache folders
+# ---------------------------
+.streamlit/
+__pycache__/
