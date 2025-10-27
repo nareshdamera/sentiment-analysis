@@ -32,7 +32,7 @@ dataset.csv
 # ---------------------------
 # Model and vectorizer files
 # ---------------------------
-*.pkl
+# *.pkl
 *.joblib
 models/
 checkpoints/
